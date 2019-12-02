@@ -1,1 +1,1 @@
-###### GoogleDevChallenge
+GoogleDevChallenge

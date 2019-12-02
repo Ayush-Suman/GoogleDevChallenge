@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717003968104",
+    "firebase_url": "https://pepper-cap.firebaseio.com",
+    "project_id": "pepper-cap",
+    "storage_bucket": "pepper-cap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717003968104:android:fd46f02e486beac4",
+        "android_client_info": {
+          "package_name": "a.suman.peppercap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717003968104-jb9dj6b5m7ivmihcqve9sd8c9f5bc4a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "a.suman.peppercap",
+            "certificate_hash": "8c3b722501302921cd5a8c9844c454e599c109bd"
+          }
+        },
+        {
+          "client_id": "717003968104-75p7q8gjkr7nu1c1em9mlmc194r89r97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASEe0dsCau-3_XTTm6IQoXagvZ_EJB3G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717003968104-75p7q8gjkr7nu1c1em9mlmc194r89r97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
